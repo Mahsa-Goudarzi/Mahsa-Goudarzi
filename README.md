@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mahsagoodarzi1999@gmail.com
