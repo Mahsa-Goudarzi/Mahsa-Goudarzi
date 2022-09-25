@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.JS Development
 - 💞️ I’m looking to collaborate on entry-level positions in Front-end development
 - 📫 How to reach me : mahsagoodarzi1999@gmail.com
-- 💻 You can visit my portfolio : https://mahsa-goudarzi.github.io
+- 💻 You can visit my portfolio : https://mahsagoudarzi.netlify.app
 
 <!---
 Mahsa-Goudarzi/Mahsa-Goudarzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
