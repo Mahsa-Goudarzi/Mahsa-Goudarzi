@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React.JS Development
-- 💞️ I’m looking to collaborate on entry-level positions in Front-end development
+- 💞️ I’m looking to collaborate on new inventions in Front-end development
 - 📫 How to reach me : mahsagoodarzi1999@gmail.com
 - 💻 You can visit my portfolio : https://mahsagoudarzi.netlify.app
 
