@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.JS Development
-- 💞️ I’m looking to collaborate on new inventions in Front-end development
-- 📫 How to reach me : mahsagoodarzi1999@gmail.com
+- 👀 I’m interested in Artificial Intelligence, Web3, and Front-End Development
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on internship opportunities in Data and AI
+- 📫 How to reach me: mahsagoodarzi1999@gmail.com
 
 <!---
 Mahsa-Goudarzi/Mahsa-Goudarzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
