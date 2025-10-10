@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
-- 👀 I’m interested in Artificial Intelligence, Web3, and Front-End Development
+- 👀 I’m interested in Artificial Intelligence, Automation, and Software Development
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on internship opportunities in Data and AI
 - 📫 How to reach me: mahsagoodarzi1999@gmail.com
