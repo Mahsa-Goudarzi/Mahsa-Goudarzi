@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
-- 👀 I’m interested in Artificial Intelligence, Automation, and Software Development
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on internship opportunities in Data and AI
+- 👀 I’m interested in Software Engineering and Front-end Development
+- 🌱 I’m currently refreshing my Front-end development skills
+- 💞️ I’m looking to collaborate on React.js job/internship opportunities
 - 📫 How to reach me: mahsagoodarzi1999@gmail.com
 
 <!---
