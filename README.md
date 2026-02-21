@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
 - 👀 I’m interested in Software Engineering and Front-end Development
-- 🌱 I’m currently sharpening my Front-end development skills
-- 💞️ I’m looking to collaborate on React.js job/internship opportunities
+- 🌱 I’m looking to collaborate on React.js job/internship opportunities in Europe
+- 💞️ Please check out my portfolio: mahsa-goudarzi.github.io
 - 📫 How to reach me: mahsagoodarzi1999@gmail.com
 
 <!---
