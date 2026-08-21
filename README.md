@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Front-end Development
 - 🌱 I’m looking for Frontend full-time opportunities in Europe
 - 💞️ Please check out my portfolio: [mahsagoudarzi.netlify.app](https://mahsagoudarzi.netlify.app/)
-- 📫 How to reach me: mahsagoodarzi1999@gmail.com
+- 📫 How to reach me: mahsa.goudarzi.dev@gmail.com or mahsagoodarzi1999@gmail.com
 
 <!---
 Mahsa-Goudarzi/Mahsa-Goudarzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
