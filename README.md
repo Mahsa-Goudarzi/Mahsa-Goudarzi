@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahsa-Goudarzi
 - 👀 I’m interested in Software Engineering and Front-end Development
-- 🌱 I’m looking for Frontend full-time opportunities in Europe
+- 🌱 I’m looking for full-time Software opportunities in Europe
 - 💞️ Please check out my newest project: [mlens-dashboard.vercel.app](https://mlens-dashboard.vercel.app/)
 - 📫 How to reach me: mahsa.goudarzi.dev@gmail.com or mahsagoodarzi1999@gmail.com
 
